@@ -1,0 +1,6 @@
+{
+  "name": "Automated Smart Gate Pass System",
+  "description": "Automated Smart Gate Pass and Identity Verification System for Secure Campus Access",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
